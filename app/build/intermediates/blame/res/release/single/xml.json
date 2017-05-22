@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\release\\xml\\appwidget_info.xml",
+        "source": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\xml\\appwidget_info.xml"
+    },
+    {
+        "merged": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\release\\xml\\preference_settings.xml",
+        "source": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\xml\\preference_settings.xml"
+    }
+]

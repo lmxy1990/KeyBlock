@@ -3,7 +3,7 @@
     <string name="app_name">KeyBlocker</string>
     <string name="attention">Please open Settings-AccessibilityService-KeyBlocker to use it.\nRestart this Service may solve problems when control panel can not work.</string>
     <string name="introduce">This application can help you block all your physical keys.\nExcept the power button!\nYou can close it by Notification, Widget or TileQuickSetting(Android N)!</string>
-    <string name="tile_set">Above Android N Devices default open your Status Bar and enable the Tile to control KeyBlocker!</string>
+    <string name="tile_set">On First Use Must Enable it</string>
     <string name="go_start">Click Here to Start</string>
     <string name="disabled_volume_key">Not Block Volume Button</string>
     <string name="force_notification_control">Force Notification Control (Android N)</string>

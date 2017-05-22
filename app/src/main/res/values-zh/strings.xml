@@ -3,7 +3,7 @@
     <string name="app_name">按键屏蔽</string>
     <string name="attention">请打开 设置-无障碍服务-按键屏蔽 来使用。\n控制面板出现错误时，重启该服务可以解决一些问题。</string>
     <string name="introduce">这个应用可以帮助你屏蔽所有的物理按键。</string>
-    <string name="tile_set">在安卓N设备上默认需要打开状态栏的磁贴设置添加磁贴来控制按键屏蔽！</string>
+    <string name="tile_set">初次使用请先点击下方的设置.启用与关闭可以通过系统服务或者程序提供的开关.两个开关必须都启用才启用</string>
     <string name="go_start">点击这里，开始运行</string>
     <string name="disabled_volume_key">不屏蔽音量按键</string>
     <string name="force_notification_control">强制使用通知栏控制(安卓 N)</string>

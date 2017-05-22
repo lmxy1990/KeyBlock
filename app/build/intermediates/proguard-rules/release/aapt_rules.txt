@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:19
+-keep class tool.lmxy1990.keyblocker.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class tool.lmxy1990.keyblocker.activity.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class tool.lmxy1990.keyblocker.base.BaseApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class tool.lmxy1990.keyblocker.receiver.RemoteReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class tool.lmxy1990.keyblocker.receiver.WidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class tool.lmxy1990.keyblocker.service.KeyBlockService { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class tool.lmxy1990.keyblocker.service.QuickSettingService { <init>(...); }
+

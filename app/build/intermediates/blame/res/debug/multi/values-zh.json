@@ -179,14 +179,7 @@
                     "endOffset": 848
                 },
                 "from": {
-                    "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 1,
-                        "startOffset": 821,
-                        "endColumn": 44,
-                        "endOffset": 864
-                    }
+                    "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
                 }
             },
             {
@@ -518,20 +511,27 @@
                     "startLine": 44,
                     "startColumn": 4,
                     "startOffset": 2302,
-                    "endColumn": 70,
-                    "endOffset": 2368
+                    "endColumn": 86,
+                    "endOffset": 2384
                 },
                 "from": {
-                    "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
+                    "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 86,
+                        "endOffset": 329
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2373,
+                    "startOffset": 2389,
                     "endColumn": 49,
-                    "endOffset": 2418
+                    "endOffset": 2434
                 },
                 "from": {
                     "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -541,9 +541,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 2423,
+                    "startOffset": 2439,
                     "endColumn": 45,
-                    "endOffset": 2464
+                    "endOffset": 2480
                 },
                 "from": {
                     "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -553,9 +553,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 2469,
+                    "startOffset": 2485,
                     "endColumn": 53,
-                    "endOffset": 2518
+                    "endOffset": 2534
                 },
                 "from": {
                     "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -565,9 +565,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 2523,
+                    "startOffset": 2539,
                     "endColumn": 53,
-                    "endOffset": 2572
+                    "endOffset": 2588
                 },
                 "from": {
                     "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -577,9 +577,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 2577,
+                    "startOffset": 2593,
                     "endColumn": 52,
-                    "endOffset": 2625
+                    "endOffset": 2641
                 },
                 "from": {
                     "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -589,28 +589,21 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 2630,
+                    "startOffset": 2646,
                     "endColumn": 47,
-                    "endOffset": 2673
+                    "endOffset": 2689
                 },
                 "from": {
-                    "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml",
-                    "position": {
-                        "startLine": 49,
-                        "startColumn": 1,
-                        "startOffset": 2498,
-                        "endColumn": 44,
-                        "endOffset": 2541
-                    }
+                    "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 2678,
+                    "startOffset": 2694,
                     "endColumn": 52,
-                    "endOffset": 2726
+                    "endOffset": 2742
                 },
                 "from": {
                     "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -620,9 +613,9 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 2731,
+                    "startOffset": 2747,
                     "endColumn": 50,
-                    "endOffset": 2777
+                    "endOffset": 2793
                 },
                 "from": {
                     "file": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\values-zh\\strings.xml"

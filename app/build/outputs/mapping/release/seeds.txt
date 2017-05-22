@@ -1,0 +1,92 @@
+tool.lmxy1990.keyblocker.R$color: int colorAccent
+tool.lmxy1990.keyblocker.R$color: int colorPrimary
+tool.lmxy1990.keyblocker.R$color: int colorPrimaryDark
+tool.lmxy1990.keyblocker.R$color: int white
+tool.lmxy1990.keyblocker.R$drawable: int ic_appwidget_off
+tool.lmxy1990.keyblocker.R$drawable: int ic_appwidget_on
+tool.lmxy1990.keyblocker.R$drawable: int ic_notification
+tool.lmxy1990.keyblocker.R$id: int btn_access_entry
+tool.lmxy1990.keyblocker.R$id: int btn_appwidget
+tool.lmxy1990.keyblocker.R$id: int btn_cancel
+tool.lmxy1990.keyblocker.R$id: int btn_help
+tool.lmxy1990.keyblocker.R$id: int btn_settings
+tool.lmxy1990.keyblocker.R$id: int btn_start
+tool.lmxy1990.keyblocker.R$id: int btn_submit
+tool.lmxy1990.keyblocker.R$id: int et_custom_keycode
+tool.lmxy1990.keyblocker.R$id: int layout_content
+tool.lmxy1990.keyblocker.R$id: int textview_author
+tool.lmxy1990.keyblocker.R$layout: int activity_guide_layout
+tool.lmxy1990.keyblocker.R$layout: int appwidget_layout
+tool.lmxy1990.keyblocker.R$layout: int v_custom_keycode
+tool.lmxy1990.keyblocker.R$mipmap: int ic_launcher
+tool.lmxy1990.keyblocker.R$string: int access_entry
+tool.lmxy1990.keyblocker.R$string: int access_entry_use
+tool.lmxy1990.keyblocker.R$string: int allow_remove_notification
+tool.lmxy1990.keyblocker.R$string: int app_name
+tool.lmxy1990.keyblocker.R$string: int attention
+tool.lmxy1990.keyblocker.R$string: int author
+tool.lmxy1990.keyblocker.R$string: int auto_close_statusbar
+tool.lmxy1990.keyblocker.R$string: int button_blocked
+tool.lmxy1990.keyblocker.R$string: int button_unblocked
+tool.lmxy1990.keyblocker.R$string: int button_vibrate
+tool.lmxy1990.keyblocker.R$string: int cancel
+tool.lmxy1990.keyblocker.R$string: int continuedo
+tool.lmxy1990.keyblocker.R$string: int custom_setting
+tool.lmxy1990.keyblocker.R$string: int disabled_volume_key
+tool.lmxy1990.keyblocker.R$string: int enable_block
+tool.lmxy1990.keyblocker.R$string: int enabled_custom
+tool.lmxy1990.keyblocker.R$string: int enabled_custom_describe
+tool.lmxy1990.keyblocker.R$string: int force_notification_control
+tool.lmxy1990.keyblocker.R$string: int go_start
+tool.lmxy1990.keyblocker.R$string: int has_disabled
+tool.lmxy1990.keyblocker.R$string: int has_enabled
+tool.lmxy1990.keyblocker.R$string: int help
+tool.lmxy1990.keyblocker.R$string: int input_keycode
+tool.lmxy1990.keyblocker.R$string: int introduce
+tool.lmxy1990.keyblocker.R$string: int keyblock_activity
+tool.lmxy1990.keyblocker.R$string: int keyblock_activity_describe
+tool.lmxy1990.keyblocker.R$string: int keyblock_activity_settings
+tool.lmxy1990.keyblocker.R$string: int keyblock_custom_closed
+tool.lmxy1990.keyblocker.R$string: int loading
+tool.lmxy1990.keyblocker.R$string: int notify_mes_off
+tool.lmxy1990.keyblocker.R$string: int notify_mes_on
+tool.lmxy1990.keyblocker.R$string: int restart_service
+tool.lmxy1990.keyblocker.R$string: int root
+tool.lmxy1990.keyblocker.R$string: int root_describe
+tool.lmxy1990.keyblocker.R$string: int root_failed
+tool.lmxy1990.keyblocker.R$string: int setting
+tool.lmxy1990.keyblocker.R$string: int show_notification_icon
+tool.lmxy1990.keyblocker.R$string: int show_system_application
+tool.lmxy1990.keyblocker.R$string: int spaces_separate
+tool.lmxy1990.keyblocker.R$string: int start_service_first
+tool.lmxy1990.keyblocker.R$string: int submit
+tool.lmxy1990.keyblocker.R$string: int test_keycode
+tool.lmxy1990.keyblocker.R$string: int tile_set
+tool.lmxy1990.keyblocker.R$string: int vibrate_warn
+tool.lmxy1990.keyblocker.R$string: int wrong_format
+tool.lmxy1990.keyblocker.R$string: int xml_custom_settings
+tool.lmxy1990.keyblocker.R$string: int xml_general_settings
+tool.lmxy1990.keyblocker.R$string: int xml_notify_settings
+tool.lmxy1990.keyblocker.R$string: int xml_open_close
+tool.lmxy1990.keyblocker.R$string: int xml_root_settings
+tool.lmxy1990.keyblocker.R$string: int xml_tile_settings
+tool.lmxy1990.keyblocker.R$style: int AppTheme
+tool.lmxy1990.keyblocker.R$style: int holo_actionbar_style
+tool.lmxy1990.keyblocker.R$style: int holo_actionbar_titleStyle
+tool.lmxy1990.keyblocker.R$xml: int appwidget_info
+tool.lmxy1990.keyblocker.R$xml: int preference_settings
+tool.lmxy1990.keyblocker.R$xml: int service_config
+tool.lmxy1990.keyblocker.activity.MainActivity
+tool.lmxy1990.keyblocker.activity.MainActivity: MainActivity()
+tool.lmxy1990.keyblocker.activity.SettingsActivity
+tool.lmxy1990.keyblocker.activity.SettingsActivity: SettingsActivity()
+tool.lmxy1990.keyblocker.base.BaseApplication
+tool.lmxy1990.keyblocker.base.BaseApplication: BaseApplication()
+tool.lmxy1990.keyblocker.receiver.RemoteReceiver
+tool.lmxy1990.keyblocker.receiver.RemoteReceiver: RemoteReceiver()
+tool.lmxy1990.keyblocker.receiver.WidgetProvider
+tool.lmxy1990.keyblocker.receiver.WidgetProvider: WidgetProvider()
+tool.lmxy1990.keyblocker.service.KeyBlockService
+tool.lmxy1990.keyblocker.service.KeyBlockService: KeyBlockService()
+tool.lmxy1990.keyblocker.service.QuickSettingService
+tool.lmxy1990.keyblocker.service.QuickSettingService: QuickSettingService()

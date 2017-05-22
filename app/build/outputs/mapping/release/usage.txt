@@ -1,0 +1,15 @@
+tool.lmxy1990.keyblocker.BuildConfig
+tool.lmxy1990.keyblocker.R
+tool.lmxy1990.keyblocker.R$attr
+tool.lmxy1990.keyblocker.R$color
+tool.lmxy1990.keyblocker.R$drawable
+tool.lmxy1990.keyblocker.R$id
+tool.lmxy1990.keyblocker.R$layout
+tool.lmxy1990.keyblocker.R$mipmap
+tool.lmxy1990.keyblocker.R$string
+tool.lmxy1990.keyblocker.R$style
+tool.lmxy1990.keyblocker.R$xml
+tool.lmxy1990.keyblocker.base.BaseMethod:
+    18:18:public BaseMethod()
+tool.lmxy1990.keyblocker.config.Config:
+    8:8:public Config()

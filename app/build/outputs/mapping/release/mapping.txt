@@ -1,0 +1,271 @@
+tool.lmxy1990.keyblocker.activity.MainActivity -> tool.lmxy1990.keyblocker.activity.MainActivity:
+    android.content.SharedPreferences mSp -> a
+    android.content.SharedPreferences$Editor mSpEditor -> b
+    android.widget.Button mBtnStart -> c
+    android.widget.Button mBtnSettings -> d
+    android.widget.Button mBtnAccessEntry -> e
+    void <init>() -> <init>
+    void onCreate(android.os.Bundle) -> onCreate
+    void initHandle() -> a
+    void initView() -> b
+tool.lmxy1990.keyblocker.activity.MainActivity$1 -> tool.lmxy1990.keyblocker.activity.MainActivity$1:
+    tool.lmxy1990.keyblocker.activity.MainActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.MainActivity) -> <init>
+    void onClick(android.view.View) -> onClick
+tool.lmxy1990.keyblocker.activity.MainActivity$2 -> tool.lmxy1990.keyblocker.activity.MainActivity$2:
+    tool.lmxy1990.keyblocker.activity.MainActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.MainActivity) -> <init>
+    void onClick(android.view.View) -> onClick
+tool.lmxy1990.keyblocker.activity.MainActivity$3 -> tool.lmxy1990.keyblocker.activity.MainActivity$3:
+    tool.lmxy1990.keyblocker.activity.MainActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.MainActivity) -> <init>
+    void onClick(android.view.View) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity -> tool.lmxy1990.keyblocker.activity.SettingsActivity:
+    android.content.SharedPreferences mSp -> a
+    android.content.SharedPreferences$Editor mSpEditor -> b
+    java.lang.String[] AppNames -> c
+    java.lang.String[] PkgNames -> d
+    boolean[] AppState -> e
+    boolean AppListOpening -> f
+    java.lang.String mCustomKeycodeRegEx -> g
+    void <init>() -> <init>
+    void onCreate(android.os.Bundle) -> onCreate
+    void Settings() -> a
+    void getAppInfo(android.content.Context,java.util.ArrayList) -> a
+    boolean displayToast(boolean) -> a
+    boolean access$000(tool.lmxy1990.keyblocker.activity.SettingsActivity,boolean) -> a
+    android.content.SharedPreferences access$100(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> a
+    android.content.SharedPreferences$Editor access$200(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> b
+    java.lang.String access$300(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> c
+    boolean access$400(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> d
+    boolean access$402(tool.lmxy1990.keyblocker.activity.SettingsActivity,boolean) -> b
+    void access$500(tool.lmxy1990.keyblocker.activity.SettingsActivity,android.content.Context,java.util.ArrayList) -> a
+    boolean[] access$600(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> e
+    java.lang.String[] access$700(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> f
+    java.lang.String[] access$800(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> g
+tool.lmxy1990.keyblocker.activity.SettingsActivity$1 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$1:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceChange(android.preference.Preference,java.lang.Object) -> onPreferenceChange
+tool.lmxy1990.keyblocker.activity.SettingsActivity$2 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$2:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceChange(android.preference.Preference,java.lang.Object) -> onPreferenceChange
+tool.lmxy1990.keyblocker.activity.SettingsActivity$3 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$3:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceChange(android.preference.Preference,java.lang.Object) -> onPreferenceChange
+tool.lmxy1990.keyblocker.activity.SettingsActivity$4 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$4:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceChange(android.preference.Preference,java.lang.Object) -> onPreferenceChange
+tool.lmxy1990.keyblocker.activity.SettingsActivity$5 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$5:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceChange(android.preference.Preference,java.lang.Object) -> onPreferenceChange
+tool.lmxy1990.keyblocker.activity.SettingsActivity$5$1 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$5$1:
+    android.preference.Preference val$p -> a
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$5 this$1 -> b
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$5,android.preference.Preference) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$5$2 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$5$2:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$5 this$1 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$5) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$6 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$6:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceChange(android.preference.Preference,java.lang.Object) -> onPreferenceChange
+tool.lmxy1990.keyblocker.activity.SettingsActivity$7 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$7:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceChange(android.preference.Preference,java.lang.Object) -> onPreferenceChange
+tool.lmxy1990.keyblocker.activity.SettingsActivity$8 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$8:
+    android.view.View mSubView -> a
+    android.widget.EditText mEtCustomKeycode -> b
+    android.app.AlertDialog mAdCustomKeycode -> c
+    android.app.AlertDialog$Builder mAdBuilderCustomKeycode -> d
+    android.widget.Button mBtnCancel -> e
+    android.widget.Button mBtnSubmit -> f
+    android.widget.Button mBtnHelp -> g
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> h
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceClick(android.preference.Preference) -> onPreferenceClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$8$1 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$8$1:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$8 this$1 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$8) -> <init>
+    void onClick(android.view.View) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$8$2 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$8$2:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$8 this$1 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$8) -> <init>
+    void onClick(android.view.View) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$8$3 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$8$3:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$8 this$1 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$8) -> <init>
+    void onClick(android.view.View) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$9 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$9:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity) -> <init>
+    boolean onPreferenceClick(android.preference.Preference) -> onPreferenceClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$9 this$1 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$9) -> <init>
+    void run() -> run
+tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1$1 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1$1:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1 this$2 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1$2 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1$2:
+    java.util.ArrayList val$FilterApplication -> a
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1 this$2 -> b
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1,java.util.ArrayList) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1$3 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1$3:
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1 this$2 -> a
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1) -> <init>
+    void onClick(android.content.DialogInterface,int,boolean) -> onClick
+tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1$4 -> tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1$4:
+    android.app.AlertDialog$Builder val$KeyBlockActivityAlert -> a
+    tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1 this$2 -> b
+    void <init>(tool.lmxy1990.keyblocker.activity.SettingsActivity$9$1,android.app.AlertDialog$Builder) -> <init>
+    void run() -> run
+tool.lmxy1990.keyblocker.base.BaseApplication -> tool.lmxy1990.keyblocker.base.BaseApplication:
+    void <init>() -> <init>
+    void onCreate() -> onCreate
+tool.lmxy1990.keyblocker.base.BaseMethod -> tool.lmxy1990.keyblocker.base.a:
+    java.util.List orderPackageList(android.content.Context,java.util.List) -> a
+    java.util.ArrayList StringToStringArrayList(java.lang.String) -> a
+    void BlockNotify(android.content.Context,boolean) -> a
+    boolean isRoot() -> a
+    void RunAccessibilityService(android.content.Context) -> a
+    void RestartAccessibilityService(android.content.Context) -> b
+    void KeyLockBroadcast(android.content.Context) -> c
+    boolean isAccessibilitySettingsOn(android.content.Context) -> d
+    void collapseStatusBar(android.content.Context) -> e
+tool.lmxy1990.keyblocker.base.BaseMethod$1 -> tool.lmxy1990.keyblocker.base.a$1:
+    android.content.Context val$ctx -> a
+    void <init>(android.content.Context) -> <init>
+    int compare(android.content.pm.PackageInfo,android.content.pm.PackageInfo) -> a
+    int compare(java.lang.Object,java.lang.Object) -> compare
+tool.lmxy1990.keyblocker.base.CrashHandler -> tool.lmxy1990.keyblocker.base.b:
+    java.lang.Thread$UncaughtExceptionHandler mDefaultHandler -> a
+    android.content.Context mContext -> b
+    void <init>() -> <init>
+    tool.lmxy1990.keyblocker.base.CrashHandler get() -> a
+    void Catch(android.content.Context) -> a
+    void uncaughtException(java.lang.Thread,java.lang.Throwable) -> uncaughtException
+    java.lang.String ExToString(java.lang.Throwable) -> a
+    android.content.Context access$000(tool.lmxy1990.keyblocker.base.CrashHandler) -> a
+    java.lang.String access$100(tool.lmxy1990.keyblocker.base.CrashHandler,java.lang.Throwable) -> a
+tool.lmxy1990.keyblocker.base.CrashHandler$1 -> tool.lmxy1990.keyblocker.base.b$1:
+    java.lang.Throwable val$ex -> a
+    tool.lmxy1990.keyblocker.base.CrashHandler this$0 -> b
+    void <init>(tool.lmxy1990.keyblocker.base.CrashHandler,java.lang.Throwable) -> <init>
+    void run() -> run
+tool.lmxy1990.keyblocker.config.Config -> tool.lmxy1990.keyblocker.a.a:
+    int NOTIFICATION_ID -> a
+    java.lang.String EMPTY_ARRAY -> b
+    java.lang.String APPWIDGET_CLICK_ACTION -> c
+    java.lang.String APPWIDGET_UPDATE_ACTION -> d
+    java.lang.String REMOTE_CONTROL_ACTION -> e
+    java.lang.String NOTIFICATION_CLICK_ACTION -> f
+    java.lang.String NOTIFICATION_DELETE_ACTION -> g
+    java.lang.String ENABLED_CUSTOM_KEYCODE -> h
+    java.lang.String CUSTOM_SETTINGS -> i
+    java.lang.String ENABLED_VOLUME_KEY -> j
+    java.lang.String CUSTOM_KEYCODE -> k
+    java.lang.String DISPLAY_KEYCODE -> l
+    java.lang.String ENABLED_KEYBLOCK -> m
+    java.lang.String DISPLAY_APPWIDGET -> n
+    java.lang.String ROOT_FUNCTION -> o
+    java.lang.String BUTTON_VIBRATE -> p
+    java.lang.String DISPLAY_NOTIFICATION -> q
+    java.lang.String NOTIFICATION_ICON -> r
+    java.lang.String REMOVE_NOTIFICATION -> s
+    java.lang.String AUTO_CLOSE_STATUSBAR -> t
+    java.lang.String KEYBLOCK_ACTIVITY -> u
+    java.lang.String KEYBLOCK_ACTIVITY_SET -> v
+    java.lang.String CUSTOM_KEYBLOCK_ACTIVITY -> w
+    java.lang.String RUNTIME_BUTTONLIGHT_ON -> x
+    java.lang.String RUNTIME_BUTTONLIGHT_OFF -> y
+    java.lang.String RUNTIME_BUTTONLIGHT_CHMOD_STICK -> z
+    java.lang.String RUNTIME_BUTTONLIGHT_CHMOD_CHANGE -> A
+    java.lang.String RUNTIME_VIBRATE_ON -> B
+    java.lang.String RUNTIME_VIBRATE_OFF -> C
+    java.lang.String RUNTIME_VIBRATE_CHMOD_STICK -> D
+    java.lang.String RUNTIME_VIBRATE_CHMOD_CHANGE -> E
+    java.lang.String RUNTIME_VIBRATE_CHMOD_AVOIDCHANGE_STICK -> F
+    java.lang.String RUNTIME_VIBRATE_CHMOD_AVOIDCHANGE_CHANGE -> G
+    void <clinit>() -> <clinit>
+tool.lmxy1990.keyblocker.receiver.RemoteReceiver -> tool.lmxy1990.keyblocker.receiver.RemoteReceiver:
+    void <init>() -> <init>
+    void onReceive(android.content.Context,android.content.Intent) -> onReceive
+tool.lmxy1990.keyblocker.receiver.WidgetProvider -> tool.lmxy1990.keyblocker.receiver.WidgetProvider:
+    android.widget.RemoteViews mRv -> a
+    android.app.PendingIntent mPI -> b
+    void <init>() -> <init>
+    void onUpdate(android.content.Context,android.appwidget.AppWidgetManager,int[]) -> onUpdate
+    void onReceive(android.content.Context,android.content.Intent) -> onReceive
+    void updateView(android.content.Context) -> a
+    void reloadView(android.content.Context,boolean) -> a
+    void ViewSet(android.content.Context,boolean) -> b
+tool.lmxy1990.keyblocker.service.KeyBlockService -> tool.lmxy1990.keyblocker.service.KeyBlockService:
+    java.lang.String mCurrentActivity -> a
+    java.lang.String mLastActivity -> b
+    tool.lmxy1990.keyblocker.service.KeyBlockService$ButtonBroadcastReceiver mBbr -> c
+    android.app.Notification$Builder mNBuilder -> d
+    android.content.SharedPreferences mSp -> e
+    android.content.SharedPreferences$Editor mSpEditor -> f
+    boolean mIsQuickSetting -> g
+    android.app.NotificationManager mNM -> h
+    boolean isReceiverRegistered -> i
+    boolean isNotificationClosed -> j
+    boolean inRootMode -> k
+    boolean allowBlockVibrator -> l
+    boolean allowRemoveNotification -> m
+    void <init>() -> <init>
+    void onCreate() -> onCreate
+    void onServiceConnected() -> onServiceConnected
+    void onAccessibilityEvent(android.view.accessibility.AccessibilityEvent) -> onAccessibilityEvent
+    void onInterrupt() -> onInterrupt
+    void onDestroy() -> onDestroy
+    boolean onUnbind(android.content.Intent) -> onUnbind
+    boolean onKeyEvent(android.view.KeyEvent) -> onKeyEvent
+    void currentActivityCheck() -> a
+    void ControlModeSet() -> b
+    void ButtonLightControl(boolean) -> a
+    void ButtonVibrateControl(boolean) -> b
+    void ReceiverRegister() -> c
+    void ReceiverUnregister() -> d
+    void ShowNotification() -> e
+    void CloseNotification() -> f
+    android.content.SharedPreferences access$100(tool.lmxy1990.keyblocker.service.KeyBlockService) -> a
+    void access$200(tool.lmxy1990.keyblocker.service.KeyBlockService,boolean) -> a
+    void access$300(tool.lmxy1990.keyblocker.service.KeyBlockService,boolean) -> b
+    android.content.SharedPreferences$Editor access$400(tool.lmxy1990.keyblocker.service.KeyBlockService) -> b
+    boolean access$500(tool.lmxy1990.keyblocker.service.KeyBlockService) -> c
+    boolean access$600(tool.lmxy1990.keyblocker.service.KeyBlockService) -> d
+    android.app.Notification$Builder access$700(tool.lmxy1990.keyblocker.service.KeyBlockService) -> e
+    boolean access$802(tool.lmxy1990.keyblocker.service.KeyBlockService,boolean) -> c
+    android.app.NotificationManager access$900(tool.lmxy1990.keyblocker.service.KeyBlockService) -> f
+tool.lmxy1990.keyblocker.service.KeyBlockService$1 -> tool.lmxy1990.keyblocker.service.KeyBlockService$1:
+    boolean val$NotInControl -> a
+    tool.lmxy1990.keyblocker.service.KeyBlockService this$0 -> b
+    void <init>(tool.lmxy1990.keyblocker.service.KeyBlockService,boolean) -> <init>
+    void run() -> run
+tool.lmxy1990.keyblocker.service.KeyBlockService$2 -> tool.lmxy1990.keyblocker.service.KeyBlockService$2:
+    boolean val$NotInControl -> a
+    tool.lmxy1990.keyblocker.service.KeyBlockService this$0 -> b
+    void <init>(tool.lmxy1990.keyblocker.service.KeyBlockService,boolean) -> <init>
+    void run() -> run
+tool.lmxy1990.keyblocker.service.KeyBlockService$ButtonBroadcastReceiver -> tool.lmxy1990.keyblocker.service.KeyBlockService$a:
+    boolean mIsKeyBlocked -> b
+    tool.lmxy1990.keyblocker.service.KeyBlockService this$0 -> a
+    void <init>(tool.lmxy1990.keyblocker.service.KeyBlockService) -> <init>
+    void onReceive(android.content.Context,android.content.Intent) -> onReceive
+    void <init>(tool.lmxy1990.keyblocker.service.KeyBlockService,tool.lmxy1990.keyblocker.service.KeyBlockService$1) -> <init>
+tool.lmxy1990.keyblocker.service.QuickSettingService -> tool.lmxy1990.keyblocker.service.QuickSettingService:
+    void <init>() -> <init>
+    void onStartListening() -> onStartListening
+    void onClick() -> onClick
+    void updateView(boolean,boolean) -> a

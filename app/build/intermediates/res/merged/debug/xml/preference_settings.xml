@@ -5,7 +5,7 @@
 		<CheckBoxPreference
 				android:key="EnabledKeyBlock"
 				android:title="@string/enable_block"
-				android:defaultValue="true"
+				android:defaultValue="false"
 		/>
 	</PreferenceCategory>
     <PreferenceCategory android:title="@string/xml_general_settings"> 

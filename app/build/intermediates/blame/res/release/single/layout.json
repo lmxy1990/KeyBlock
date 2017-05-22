@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\release\\layout\\v_custom_keycode.xml",
+        "source": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\layout\\v_custom_keycode.xml"
+    },
+    {
+        "merged": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\release\\layout\\appwidget_layout.xml",
+        "source": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\layout\\appwidget_layout.xml"
+    },
+    {
+        "merged": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_guide_layout.xml",
+        "source": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\layout\\activity_guide_layout.xml"
+    }
+]
