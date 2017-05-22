@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tool.lmxy1990.keyblocker">
+
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+		
+    <application
+		android:name=".base.BaseApplication"
+        android:icon="@mipmap/ic_launcher"
+		android:roundIcon="@mipmap/ic_launcher"
+		android:theme="@style/AppTheme"
+        android:label="@string/app_name">
+
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		<activity
+            android:name=".activity.SettingsActivity"
+			android:label="@string/setting">
+        </activity>
+
+        <service
+            android:name=".service.KeyBlockService"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/service_config" />
+        </service>
+        <service
+            android:name=".service.QuickSettingService"
+            android:icon="@drawable/ic_notification"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name=".receiver.RemoteReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="tool.lmxy1990.keyblocker.action.REMOTE_CONTROL_ACTION" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".receiver.WidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="tool.lmxy1990.keyblocker.action.APPWIDGET_CLICK_ACTION" />
+                <action android:name="tool.lmxy1990.keyblocker.action.APPWIDGET_UPDATE_ACTION" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/appwidget_info" />
+        </receiver>
+    </application>
+
+</manifest>

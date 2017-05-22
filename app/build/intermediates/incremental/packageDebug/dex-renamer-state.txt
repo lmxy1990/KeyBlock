@@ -1,0 +1,7 @@
+#Mon May 22 15:32:34 GMT+08:00 2017
+base.0=E\:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_af56f12225813b6e51890fa602e92c9bca1affc4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80fde13624dc8d0e4df5c6cc956d3e574fef68e2\\classes.dex
+base.1=E\:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80fde13624dc8d0e4df5c6cc956d3e574fef68e2
+file.0=E\:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_af56f12225813b6e51890fa602e92c9bca1affc4\\classes.dex

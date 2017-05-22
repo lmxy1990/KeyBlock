@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyBlocker</string>
+    <string name="attention">Please open Settings-AccessibilityService-KeyBlocker to use it.\nRestart this Service may solve problems when control panel can not work.</string>
+    <string name="introduce">This application can help you block all your physical keys.\nExcept the power button!\nYou can close it by Notification, Widget or TileQuickSetting(Android N)!</string>
+    <string name="tile_set">Above Android N Devices default open your Status Bar and enable the Tile to control KeyBlocker!</string>
+    <string name="go_start">Click Here to Start</string>
+    <string name="disabled_volume_key">Not Block Volume Button</string>
+    <string name="force_notification_control">Force Notification Control (Android N)</string>
+    <string name="notify_mes_on">Click Here to Open Physical Keys</string>
+    <string name="notify_mes_off">Click Here to Close Physical Keys</string>
+    <string name="restart_service">Restart AccessibilityService to apply</string>
+    <string name="start_service_first">Please Run AccessbilityService First!</string>
+    <string name="author">lmxy1990</string>
+    <string name="test_keycode">Test KeyCode</string>
+    <string name="enable_block">Enable KeyCode</string>
+    <string name="enabled_custom">Enabled cstom KeyCode</string>
+	<string name="enabled_custom_describe">Only block special custom buttons</string>
+    <string name="custom_setting">Setting Custom</string>
+    <string name="has_enabled">Has Enabled</string>
+    <string name="has_disabled">Has Disabled</string>
+    <string name="input_keycode">Input Keycode:</string>
+    <string name="spaces_separate">Use spaces to separate them</string>
+	<string name="access_entry">Access Entry</string>
+	<string name="root">Use Root Function</string>
+	<string name="root_failed">Root failed</string>
+	<string name="root_describe">Button Light and Vibrate Control\nIt is unstable and reboot may fix problems</string>
+	<string name="show_notification_icon">Show Notification Icon</string>
+	<string name="allow_remove_notification">Allow to remove notification block is off</string>
+	<string name="button_vibrate">Block Button vibrate and light</string>
+	<string name="auto_close_statusbar">Auto close Status Bar when using Tile</string>
+	<string name="button_blocked">Button is blocked</string>
+	<string name="button_unblocked">Button is unblocked now</string>
+	<string name="vibrate_warn">Some System do not support it!\n\nIf you use this funtion, all vibrate will be blocked unless you do not block your keys!\n\nWe suggest you setting button vibrate in System Settings instead of using this!</string>
+	<string name="access_entry_use">Remote call broadcast:\ntool.lmxy1990.keyblocker.action.REMOTE_CONTROL_ACTION\n\nAvailable parameters:\nBoolean value RESPOND\nPrompte when AccessibilityService is not open.(Default true)</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+	<string name="loading">Loading...</string>
+	<string name="continuedo">Continue</string>
+	<string name="help">Help</string>
+    <string name="wrong_format">Wrong Format</string>
+	<string name="setting">KeyBlock Settings</string>
+	<string name="keyblock_activity">Custom KeyBlock Applications</string>
+	<string name="keyblock_activity_describe">Block keys automatically in custom applications.</string>
+	<string name="keyblock_activity_settings">KeyBlock Applications set</string>
+	<string name="keyblock_custom_closed">Custom KeyBlock Application is closed</string>
+	<string name="show_system_application">Show system application</string>
+	
+	<string name="xml_general_settings">General Settings</string>
+	<string name="xml_open_close">Open Close Settings</string>
+	<string name="xml_notify_settings">Notification Settings</string>
+	<string name="xml_custom_settings">Custom Settings</string>
+	<string name="xml_root_settings">Root Settings</string>
+	<string name="xml_tile_settings">Tile Settings</string>
+</resources>

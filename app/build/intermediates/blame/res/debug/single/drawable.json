@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_appwidget_on.png",
+        "source": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\drawable\\ic_appwidget_on.png"
+    },
+    {
+        "merged": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_appwidget_off.png",
+        "source": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\drawable\\ic_appwidget_off.png"
+    },
+    {
+        "merged": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
+        "source": "E:\\Work Space\\Andriod\\KeyBlocker\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    }
+]

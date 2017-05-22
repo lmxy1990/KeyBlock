@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Work Space\Andriod\KeyBlocker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\Work Space\Andriod\KeyBlocker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_80fde13624dc8d0e4df5c6cc956d3e574fef68e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work Space\Andriod\KeyBlocker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf1c552ab8960f8ff3e8830c5e97702e68821e3a">
+        <dex dex="E:\Work Space\Andriod\KeyBlocker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_af56f12225813b6e51890fa602e92c9bca1affc4\classes.dex" />
+    </item>
+
+</items>
